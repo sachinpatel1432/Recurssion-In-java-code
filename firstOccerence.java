@@ -1,7 +1,6 @@
 // find firstoccerence of a given array by using recurssion in java!!
 public class firstOccerence {
         public static int firstOccerence(int arr[] , int key , int i) {
-                // base case!
                 if (i == arr.length) {
                         return -1;
                 }
